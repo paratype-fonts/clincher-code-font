@@ -14,6 +14,9 @@ Clincher Code by Paratype is a modern, highly legible, and very easy on the eyes
 * The Font Software may not be shared, given, or distributed 
 * The Font Software may be used in commercial and business projects upon purchasing a license from [Paratype Web Store](https://www.paratype.com/products/45535) 
 
+## About
+* Copyright © 2018 Paratype, Inc., ParaType Ltd. All rights reserved.
+* Created by Alexander Lubovenko, a designer and coder at Paratype. 
 
 ## Release Notes
 
